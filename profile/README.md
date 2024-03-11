@@ -1,4 +1,4 @@
-## #digitaldiff
+## diff. Kommunikation AG 
 
 ```
                  _                           _           _                        _       
